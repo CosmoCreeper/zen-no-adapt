@@ -8,5 +8,6 @@
       "zen-no-adapt.uc.mjs": {
         "include": ["chrome://browser/content/browser.xhtml"]
       }
-    }
+    },
+    "supportsUnload": true
 }
