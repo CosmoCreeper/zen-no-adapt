@@ -3,7 +3,7 @@
     "homepage": "https://github.com/CosmoCreeper/zen-no-adapt",
     "name": "Zen No Adapt",
     "description": "Yeah just don't adapt.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "scripts": {
       "zen-no-adapt.uc.mjs": {
         "include": ["chrome://browser/content/browser.xhtml"]
